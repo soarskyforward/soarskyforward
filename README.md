@@ -1,4 +1,11 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=soarskyforward&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+### Hi👋 I am soarskyforward
+
+- :orange_book:  Focus on Machine Learning and Data Mining
+- :ram:  Like playing PC Games
+- :hammer:  Unemployed
+- :Pronouns:My homepage:<https://soarskyforward.github.io/>
 
 <!--
 **soarskyforward/soarskyforward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
