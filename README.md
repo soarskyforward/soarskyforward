@@ -5,7 +5,7 @@
 - :orange_book:  Focus on Machine Learning and Data Mining
 - :ram:  Like playing PC Games
 - :hammer:  Unemployed
-- :😄:Homepage:<https://soarskyforward.github.io/>
+- 😄:Homepage:<https://soarskyforward.github.io/>
 
 <!--
 **soarskyforward/soarskyforward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
