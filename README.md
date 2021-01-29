@@ -4,7 +4,7 @@
 
 - :orange_book:  Focus on Machine Learning and Data Mining
 - :ram:  Like playing PC Games
-- :hammer:  Unemployed
+- :hammer:  Intern
 - 😄Homepage:<https://soarskyforward.github.io/>
 
 <!--
