@@ -3,7 +3,7 @@
 ### Hi👋 I am soarskyforward
 
 - :orange_book:  Focus on Machine Learning and Data Mining
-- :ram:  Like playing PC Games
+- :ram:  Like cycling
 - :hammer:  Intern
 - 😄Homepage:<https://soarskyforward.github.io/>
 
